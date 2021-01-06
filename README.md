@@ -1,8 +1,8 @@
 # Frontend Mentor - FAQ Accordion Card
 
-This is my Solution for the Fronted Mentor Coding challenge which can be found [here](https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL).
+This is my Solution for the Fronted Mentor Coding challenge which can be found [here](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam).
 
-![Design preview for the FAQ Accordion Card coding challenge](./design/desktop-preview.jpg)
+![Design preview for the FAQ Accordion Card coding challenge](./images/desktop-preview.jpg)
 
 ## Brief 
 
